@@ -1,0 +1,40 @@
+body {
+    color: #050530;
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: #050530;
+    text-decoration: none;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border: 10px solid #050530; 
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+}
+
+h2 {
+    color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    padding: 0px 50px;
+}
